@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ce01bc84.css",
+    "main.js": "/static/js/main.454cd316.js",
+    "static/js/453.b99d4d45.chunk.js": "/static/js/453.b99d4d45.chunk.js",
+    "static/media/傀影-焦点-基建-Special-x1.webm": "/static/media/傀影-焦点-基建-Special-x1.f282c4cfd38714c011c1.webm",
+    "static/media/乌有-冷山月-基建-Special-x1.webm": "/static/media/乌有-冷山月-基建-Special-x1.74cb6b57953133408ff4.webm",
+    "static/media/塑心-默认-正面-Skill_3_Loop-x1.webm": "/static/media/塑心-默认-正面-Skill_3_Loop-x1.ba50e9ba72c40c29f175.webm",
+    "static/media/跃跃-默认-正面-Idle-x1.webm": "/static/media/跃跃-默认-正面-Idle-x1.ea39003c44b685f9649d.webm",
+    "static/media/多萝西-默认-正面-Idle-x1.webm": "/static/media/多萝西-默认-正面-Idle-x1.8ec333a14d5011612cbf.webm",
+    "static/media/暴行-地底三百米-基建-Interact-x1.webm": "/static/media/暴行-地底三百米-基建-Interact-x1.9604f50fb0c03af747b7.webm",
+    "static/media/重岳-默认-正面-Skill_3_Idle-x1.webm": "/static/media/重岳-默认-正面-Skill_3_Idle-x1.b450612d2e3754cc3ebd.webm",
+    "static/media/苍苔-默认-基建-Interact-x1.webm": "/static/media/苍苔-默认-基建-Interact-x1.1dea799b3a705a10b28e.webm",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.ce01bc84.css.map": "/static/css/main.ce01bc84.css.map",
+    "main.454cd316.js.map": "/static/js/main.454cd316.js.map",
+    "453.b99d4d45.chunk.js.map": "/static/js/453.b99d4d45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce01bc84.css",
+    "static/js/main.454cd316.js"
+  ]
+}
